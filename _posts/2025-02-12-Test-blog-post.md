@@ -1,6 +1,7 @@
 ---
-title: "Test-blog-post
+title: "Test Blog Post"
 date: 2025-02-12
-this is a test blog post for my github learning experience, nothing of note is in here.
 ---
+
+this is a test blog post for my github learning experience, nothing of note is in here.
 
